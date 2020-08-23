@@ -1,0 +1,9 @@
+Notebook outline:
+
+Data Wrangling
+1. read all the csv files into dataframes (parse any dates on read)
+2. pare each dataframe down to columns to be used
+3. merge the pared down datframes into one dataframe
+4. calculate OBP and OPB/salary ratio columns.
+
+Building Teams
